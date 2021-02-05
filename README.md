@@ -1,7 +1,5 @@
 # fake-who
 
-========
-
 An exploration of hiding your user activity from other active users on a Linux system. Of course, only do this on your on hardware.
 
 ## Requirements
